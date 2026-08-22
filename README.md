@@ -1,0 +1,11 @@
+# Albert M. W. Yau
+
+Scientist-turned-engineer working across **software engineering, data infrastructure, high-performance computing, and scientific computing**, with a background in climate science, physical oceanography, and theoretical physics.
+
+[Publications](https://scholar.google.com/citations?user=V-2nZZ8AAAAJ)
+
+### Selected work
+
+- 🌪️ **[PyStormTracker](https://github.com/mwyau/PyStormTracker)** — high-performance cyclone tracking and atmospheric data analysis in Python
+- 🌊 **[Wave Motions in the Ocean: Myrl's View](https://github.com/mwyau/wave-motions-in-the-ocean)** — digital edition of physical oceanography lecture notes
+- 💧 **[Hydrodynamic Stability](https://github.com/mwyau/hydrodynamic-stability)** — undergraduate research on fluid instability and transition to turbulence
