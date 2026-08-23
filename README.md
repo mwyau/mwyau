@@ -9,4 +9,4 @@ Scientist-turned-engineer working across **software engineering, data infrastruc
 - 🌪️ **[PyStormTracker](https://github.com/mwyau/PyStormTracker)** — high-performance cyclone tracking and atmospheric data analysis in Python
 - 🌊 **[Wave Motions in the Ocean: Myrl's View](https://github.com/mwyau/wave-motions-in-the-ocean)** — digital edition of graduate-level physical oceanography lecture notes
 - 💧 **[Hydrodynamic Stability](https://github.com/mwyau/hydrodynamic-stability)** — undergraduate research on fluid instability and transition to turbulence
-- 🖥️ **[XDDD.org](https://github.com/XDDD)** — Linux web hosting and infrastructure project founded in 2002
+- 🖥️ **[XDDD.org](https://www.xddd.org)** — Linux web hosting and infrastructure, founded in 2002
