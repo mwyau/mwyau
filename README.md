@@ -2,7 +2,8 @@
 
 Scientist-turned-engineer working across **software engineering, data infrastructure, high-performance computing, and scientific computing**, with a background in climate science, physical oceanography, and theoretical physics.
 
-- 📚 **[Publications on Google Scholar](https://scholar.google.com/citations?user=V-2nZZ8AAAAJ)**
+- 📚 **[Publications](https://www.mwyau.com/publications/)**
+- 🎓 **[Google Scholar](https://scholar.google.com/citations?user=V-2nZZ8AAAAJ)**
 
 ### Selected work
 
