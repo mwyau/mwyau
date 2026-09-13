@@ -2,7 +2,7 @@
 
 Scientist-turned-engineer working across **software engineering, data infrastructure, high-performance computing, and scientific computing**, with a background in climate science, physical oceanography, and theoretical physics.
 
-Contributor to open-source scientific computing libraries, including [SciPy](https://github.com/scipy/scipy) and [ducc0](https://github.com/mreineck/ducc).
+Contributor to open-source scientific computing libraries, including [SciPy](https://github.com/scipy/scipy) and [ducc0](https://gitlab.mpcdf.mpg.de/mtr/ducc).
 
 - 📚 **[Publications](https://www.mwyau.com/publications/)**
 - 🎓 **[Google Scholar](https://scholar.google.com/citations?user=V-2nZZ8AAAAJ)**
