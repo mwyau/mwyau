@@ -13,6 +13,7 @@ Contributor to open-source projects, including [SciPy](https://github.com/scipy/
 - 🌀 **[PyStormTracker](https://github.com/mwyau/PyStormTracker)** — cyclone detection and trajectory analysis with Hodges TRACK-compatible algorithms, spectral preprocessing, and Dask/MPI execution
 - 🌐 **[spharmgrid](https://github.com/mwyau/spharmgrid)** — spherical harmonic filtering, regridding, and atmospheric kinematics for Xarray, JAX, and PyTorch
 - ⏱️ **[sht_bench](https://github.com/mwyau/sht_bench)** — benchmarks for spherical harmonic transforms across Python backends and architectures
+- 🗜️ **[7-Zip Filetype Theme](https://github.com/mwyau/7-Zip-Filetype-Theme)** — Windows filetype icon and toolbar themes for 7-Zip
 - 🌊 **[Wave Motions in the Ocean: Myrl's View](https://github.com/mwyau/wave-motions-in-the-ocean)** — digital edition of graduate-level physical oceanography lecture notes
 - 💧 **[Hydrodynamic Stability](https://github.com/mwyau/hydrodynamic-stability)** — undergraduate research on fluid instability and transition to turbulence
 - 🖥️ **[XDDD.org](https://www.xddd.org)** — Linux web hosting and infrastructure, founded in 2002
