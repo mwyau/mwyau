@@ -2,7 +2,7 @@
 
 Scientist-turned-engineer working across **software engineering, data infrastructure, high-performance computing, and scientific Python**, with a background in climate science, physical oceanography, and theoretical physics.
 
-Contributor to open-source projects, including [SciPy](https://github.com/scipy/scipy), [ducc0](https://gitlab.mpcdf.mpg.de/mtr/ducc), and [torch-harmonics](https://github.com/NVIDIA/torch-harmonics), with a focus on performance, portability, and build, test, and release infrastructure. Recent work includes optimization of Fast Fourier Transform (FFT), Spherical Harmonic Transform (SHT), gridding, and SIMD algorithms. Maintains conda-forge feedstocks for PyStormTracker, spharmgrid and upstream packages.
+Contributor to open-source projects, including [SciPy](https://github.com/scipy/scipy), [xarray](https://github.com/pydata/xarray), [ducc0](https://gitlab.mpcdf.mpg.de/mtr/ducc), and [torch-harmonics](https://github.com/NVIDIA/torch-harmonics), with a focus on performance, portability, and release infrastructure. Recent work includes optimization of Fast Fourier Transform (FFT), Spherical Harmonic Transform (SHT), gridding, and SIMD algorithms. Maintains conda-forge feedstocks for PyStormTracker, spharmgrid and upstream packages.
 
 - 📚 **[Publications](https://www.mwyau.com/publications/)**
 - 🎓 **[Google Scholar](https://scholar.google.com/citations?user=V-2nZZ8AAAAJ)**
