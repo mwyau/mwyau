@@ -10,6 +10,7 @@ Contributor to open-source projects, including [SciPy](https://github.com/scipy/
 ### Selected projects
 
 - ✍️ **[Write Like a Scientist](https://github.com/mwyau/write-like-a-scientist)** — a reusable skill for clearer scientific and research-software writing
+- 🏷️ **[SPDX Header Check](https://github.com/mwyau/spdx-header-check)** — checks REUSE-style SPDX headers in source files using prek/pre-commit or GitHub Actions
 - 🌀 **[PyStormTracker](https://github.com/mwyau/PyStormTracker)** — cyclone detection and trajectory analysis with Hodges TRACK-compatible algorithms, spectral preprocessing, and Dask/MPI execution
 - 🌐 **[spharmgrid](https://github.com/mwyau/spharmgrid)** — spherical harmonic filtering, regridding, and atmospheric kinematics for Xarray, JAX, and PyTorch
 - ⚙️ **[pyspharm-cpp](https://github.com/mwyau/pyspharm-cpp)** — PySpharm's scalar and vector transforms and spectral utilities implemented with DUCC C++
