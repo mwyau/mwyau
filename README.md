@@ -2,7 +2,7 @@
 
 Scientist-turned-engineer working on scientific software, high-performance computing, and data infrastructure, with a background in climate science, physical oceanography, and theoretical physics.
 
-Contributor to [SciPy](https://github.com/scipy/scipy), [xarray](https://github.com/pydata/xarray), [XLA](https://github.com/openxla/xla), [ducc0](https://gitlab.mpcdf.mpg.de/mtr/ducc), and [torch-harmonics](https://github.com/NVIDIA/torch-harmonics). Recent work focuses on FFT and spherical harmonic transform algorithms, SIMD optimization, and build and release infrastructure. Maintains conda-forge feedstocks for jaxlib and torch-harmonics.
+Contributor to [SciPy](https://github.com/scipy/scipy), [xarray](https://github.com/pydata/xarray), [XLA](https://github.com/openxla/xla), [ducc0](https://gitlab.mpcdf.mpg.de/mtr/ducc), and [torch-harmonics](https://github.com/NVIDIA/torch-harmonics). Recent work focuses on FFT and spherical harmonic transform algorithms, SIMD and multi-architecture optimization, and build and release infrastructure. Maintains conda-forge feedstocks for jaxlib and torch-harmonics.
 
 - 📚 **[Publications](https://www.mwyau.com/publications/)**
 - 🎓 **[Google Scholar](https://scholar.google.com/citations?user=V-2nZZ8AAAAJ)**
